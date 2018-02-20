@@ -63,7 +63,11 @@
                 </main>
             </div>
             <footer>
-                <h4>&copy; 2018</h4>
+                <h4>&copy; 2017<?php
+                    if (date("Y") >= "2017") {
+                        echo " - " . date("Y");
+                        } 
+                ?></h4>
             </footer>
         </div>
         <!-- div.centered -->
