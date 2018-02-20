@@ -21,7 +21,7 @@
                 <!-- <div class="main_nav"> -->
                 <nav>
                     <span>
-                        <a href="./index.html">Home</a>
+                        <a href="./index.php">Home</a>
                     </span>
                     <span>
                         <a href="./addition.php">Die Summe</a>
